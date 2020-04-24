@@ -1,0 +1,13 @@
+C:\Users\Winderps\source\repos\IgpayAtinlayAblay\IgpayAtinlayAblay\bin\Debug\netcoreapp3.1\IgpayAtinlayAblay.exe
+C:\Users\Winderps\source\repos\IgpayAtinlayAblay\IgpayAtinlayAblay\bin\Debug\netcoreapp3.1\IgpayAtinlayAblay.deps.json
+C:\Users\Winderps\source\repos\IgpayAtinlayAblay\IgpayAtinlayAblay\bin\Debug\netcoreapp3.1\IgpayAtinlayAblay.runtimeconfig.json
+C:\Users\Winderps\source\repos\IgpayAtinlayAblay\IgpayAtinlayAblay\bin\Debug\netcoreapp3.1\IgpayAtinlayAblay.runtimeconfig.dev.json
+C:\Users\Winderps\source\repos\IgpayAtinlayAblay\IgpayAtinlayAblay\bin\Debug\netcoreapp3.1\IgpayAtinlayAblay.dll
+C:\Users\Winderps\source\repos\IgpayAtinlayAblay\IgpayAtinlayAblay\bin\Debug\netcoreapp3.1\IgpayAtinlayAblay.pdb
+C:\Users\Winderps\source\repos\IgpayAtinlayAblay\IgpayAtinlayAblay\obj\Debug\netcoreapp3.1\IgpayAtinlayAblay.csprojAssemblyReference.cache
+C:\Users\Winderps\source\repos\IgpayAtinlayAblay\IgpayAtinlayAblay\obj\Debug\netcoreapp3.1\IgpayAtinlayAblay.csproj.CoreCompileInputs.cache
+C:\Users\Winderps\source\repos\IgpayAtinlayAblay\IgpayAtinlayAblay\obj\Debug\netcoreapp3.1\IgpayAtinlayAblay.AssemblyInfoInputs.cache
+C:\Users\Winderps\source\repos\IgpayAtinlayAblay\IgpayAtinlayAblay\obj\Debug\netcoreapp3.1\IgpayAtinlayAblay.AssemblyInfo.cs
+C:\Users\Winderps\source\repos\IgpayAtinlayAblay\IgpayAtinlayAblay\obj\Debug\netcoreapp3.1\IgpayAtinlayAblay.dll
+C:\Users\Winderps\source\repos\IgpayAtinlayAblay\IgpayAtinlayAblay\obj\Debug\netcoreapp3.1\IgpayAtinlayAblay.pdb
+C:\Users\Winderps\source\repos\IgpayAtinlayAblay\IgpayAtinlayAblay\obj\Debug\netcoreapp3.1\IgpayAtinlayAblay.genruntimeconfig.cache
