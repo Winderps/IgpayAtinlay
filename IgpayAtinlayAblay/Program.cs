@@ -18,7 +18,7 @@ namespace IgpayAtinlayAblay
             {
                 string input = GetUserInput("Please enter a sentence to be translated: ");
 
-                string[] words = input.Split(" ");
+                string[] words = input.Trim().Split(" ");
                 string translated = "";
                 foreach(string s in words)
                 {
@@ -69,7 +69,7 @@ namespace IgpayAtinlayAblay
                 }
             }
 
-            foreach (char c in punctuation) // since the punctuation is handled, we remove all of it from 
+            foreach (char c in punctuation) // since the punctuation is handled, we remove all of it from our variables
             {
                 word = word.Replace(c.ToString(), "");
                 wordOrg = wordOrg.Replace(c.ToString(), "");
@@ -94,7 +94,7 @@ namespace IgpayAtinlayAblay
 
                 consonants += wordOrg[i];
             }
-            return wordOrg;
+            return wordOrg; // this should only run if the word is all consonants
         }
 
         static bool OkayToTranslate(char c)
