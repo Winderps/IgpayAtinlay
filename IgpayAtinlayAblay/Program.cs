@@ -94,7 +94,7 @@ namespace IgpayAtinlayAblay
 
                 consonants += wordOrg[i];
             }
-            return wordOrg; // this should only run if the word is all consonants
+            return wordOrg; // this should only run if the word contains no vowels
         }
 
         static bool OkayToTranslate(char c)
